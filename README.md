@@ -10,6 +10,8 @@
 
 🌐 **Live Site:** [phantasim.vercel.app/forum](https://vercel.app)
 
+**Tools Used**: https://vercel.com/, https://console.firebase.google.com/, https://github.com/
+
 ---
 
 > [!CAUTION]
