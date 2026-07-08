@@ -1,6 +1,9 @@
 # 🌌 Phantasim Forum
 
-A modern, highly responsive community forum application designed for real-time discussions, user networking, and seamless content sharing.
+> [!NOTE]
+> ### 🔒 PRIVATE SOURCE CODE & DEV HUB
+> The primary source code for this project is hosted in a **private repository** for security and intellectual property protection. 
+> Here you can subit a PR of a suggestion you want or an event you want to happen in ther future
 
 🌐 **Live Site:** [phantasim.vercel.app/forum](https://vercel.app)
 
@@ -10,16 +13,23 @@ A modern, highly responsive community forum application designed for real-time d
 > ### 🚨 CURRENT STATUS: WEBSITE DOWN
 > The website is currently undergoing maintenance or experiencing an outage. The live forum at the Vercel link may not load, and authentication or database features may be temporarily unavailable. We are working to bring it back online as soon as possible.
 
-> [!NOTE]
-> ### 🔒 PRIVATE SOURCE CODE & DEV HUB
-> The primary source code for this project is hosted in a **private repository** for security and intellectual property protection. 
-
 > [!IMPORTANT]
 > ### 📋 PURPOSE OF THIS REPOSITORY
 > This public space serves exclusively as my developer hub. Check here frequently for:
 > *   **Project Updates**: Announcements regarding upcoming releases and system changes.
 > *   **Developer Stuff**: Technical insights, architecture notes, and progress trackers.
 > *   **System Logs & Changelogs**: Detailed breakdowns of bug fixes, feature deployments, and database updates.
+
+> [!TIP]
+> ### 🤝 GET INVOLVED & COMMUNITY
+> While the site is undergoing maintenance, you can still connect with the community and help build the platform here:
+> *   💡 **Suggest a Feature**: Open a new issue in this repository to share your platform ideas.
+> *   🛡️ **Apply for Moderator**: Submit an application through our developer hub channels to help manage the community.
+> *   💬 **Join Our Discord**: Connect directly with other users and developers by joining our [Official Discord Server](https://discord.gg).
+
+---
+
+A modern, highly responsive community forum application designed for real-time discussions, user networking, and seamless content sharing.
 
 ---
 
