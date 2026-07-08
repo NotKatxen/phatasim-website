@@ -2,8 +2,11 @@
 
 > [!NOTE]
 > ### 🔒 PRIVATE SOURCE CODE & DEV HUB
+> ### WANT THE SOURCE CODE TEXT ME ON DISCORD @swotch
+> ### -- FORUM IS FULLY OK OTHER PAGES ARE UNDER DEVELOP! --
 > The primary source code for this project is hosted in a **private repository** for security and intellectual property protection. 
-> Here you can subit a PR of a suggestion you want or an event you want to happen in ther future
+> Here you can submit a PR of a suggestion you want or an event you want to happen in ther future
+> Want the source code to a fully working forum text me on discord: @suwotch
 
 🌐 **Live Site:** [phantasim.vercel.app/forum](https://vercel.app)
 
