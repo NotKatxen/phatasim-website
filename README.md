@@ -16,7 +16,6 @@
 
 > [!CAUTION]
 > ### 🚨 CURRENT STATUS: WEBSITE UP
-> The website is currently undergoing maintenance or experiencing an outage. The live forum at the Vercel link may not load, and authentication or database features may be temporarily unavailable. We are working to bring it back online as soon as possible.
 
 > [!IMPORTANT]
 > ### 📋 PURPOSE OF THIS REPOSITORY
